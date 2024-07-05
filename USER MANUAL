@@ -1,0 +1,37 @@
+Introduction
+StyLEst is a cutting-edge app designed to provide a seamless and stylish online shopping experience, focusing on fashion and beauty products.
+Combining "Style" with "LEst" (implying "Lifestyle & Elegance" or "Best"), StyLEst aims to offer users a curated selection of elegant products, comprehensive details, and personalized recommendations.
+The app is user-friendly, allowing anyone to easily create an account, browse through a diverse range of items, and make purchases with a simple checkout process.
+Additionally, StyLEst fosters a vibrant community for fashion inspiration, making it the go-to platform for anyone looking to enhance their style and elegance effortlessly.
+
+Usage Instruction
+The Prototype was created with the use of Canva. This is because Canva is an interactive Prototyping Software/Website that can easily
+be distributed to testers with the use of links sent by the developers. 
+ 
+Sample Flow Login Page
+Launch the styLEstapp and navigate to the login page. Look for the "Login" button at the middle part of the screen. 
+Enter your credentials, usually your personal information. Double-check your information to avoid errors. 
+If you're unsure about your password, reset it through a "Forgot Password?" link. Once you've entered your credentials correctly, tap the "Login" button again. 
+The styLeST app will verify your credentials, and you'll be logged into your account. Access features like order history, wishlist, and settings.
+
+Sample Flow of Product Overview
+The search bar at the top of the screen allows users to search for products by entering their name or description. 
+To narrow down the search, filters like price range, brand, size, and color can be applied. Once the search query is entered and filters applied,
+the app will display a list of products matching your criteria,
+complete with thumbnails, brief descriptions, and prices. Users can easily browse through the results, tapping on each product to explore its details, customer reviews, and availability. 
+
+Sample flow of Try on Page 
+The styLEst app provides a unique shopping experience with a virtual try-on feature with a built-in model. 
+Users select a clothing item from the catalog and tap on it to access the product details page. The virtual model automatically adjusts the item's appearance when worn, 
+allowing users to customize the fit and placement. After making adjustments, a "Capture" button is available, allowing users to capture a snapshot of the model wearing the item.
+This allows users to review the snapshot, make confident purchases, and share it with others for opinions or style showcase. 
+
+Sample flow of Checking out Items
+Start by accessing a shopping cart, where you'll see all the products you've added for potential purchase. When you're ready to organize and prioritize these items,
+simply look for the "Add to Cart" option within the cart interface. This feature allows you to selectively move items or transfer your entire cart contents with just a tap,
+ensuring flexibility based on your preferences.
+
+Once you've chosen the items you want to transition, confirm your selection to move them to your shopping list. 
+Navigate to your shopping list within the app, where you'll find everything neatly categorized and ready for your review. 
+This feature not only helps you keep track of what you intend to purchase but also allows you to easily 
+check details such as sizes, colors, or quantities before making decisions.
